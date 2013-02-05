@@ -1,0 +1,136 @@
+#category
+{
+   float:left;
+   margin-left:5px;
+}
+#cards
+{
+	border: 2px solid black;
+	margin-top:40px;
+	padding-left:2px;
+	min-height: 100px;
+	overflow:hidden;
+	
+}
+#card
+{
+   float:left;
+   margin-left:5px;
+ 
+}
+#compBG
+{
+	border: 1px solid black;
+	width:30%;
+	height:120px;
+	float:left;
+	background-repeat: no-repeat; 
+	background-size: contain; 
+	background-position: center; 
+}
+#fbCover
+{
+margin-top:5px;
+	clear:both;
+	width:50%;
+	height:150px;
+	border: 1px solid black;
+	float:left;
+	background-repeat: no-repeat; 
+	background-size: contain; 
+	background-position: center; 
+}
+#fbPP
+{
+margin-top:5px;
+	clear:both;
+	width:15%;
+	height:200px;
+	border: 1px solid black;
+	float:left;
+	background-repeat: no-repeat; 
+	background-size: contain; 
+	background-position: center; 
+}
+
+#mobileBG
+{
+margin-top:5px;
+	width:15%;
+	height:200px;
+	border: 1px solid black;
+	float:left;
+	margin-left:20px;
+	background-repeat: no-repeat; 
+	background-size: contain; 
+	background-position: center; 
+}
+
+#pBox
+{
+	float:right;
+	border: 2px solid black;
+	min-height:50px;
+}
+#loading
+{
+	position:fixed;
+	top:10%;
+	left:10%;
+	z-index: 9999;
+	border: 1px none black;
+	width:50%;
+	height:50%;
+	background-repeat: no-repeat; 
+	background-size: contain; 
+	background-position: center;
+	background-color: gray;
+	background-image:url('http://colors-studios.com/thecolorsapp/ajax-loader.gif'); 
+	background-size:30px 30px ;
+	
+}
+#transaction
+{
+	border:3px;
+	border-color:blue;
+	
+}
+#transHeader
+{
+	font-weight:bold;
+}
+#addRank
+{
+	float:left;
+	border-right: 2px solid black;
+	width:30%;
+}
+table, td, th
+{
+width:50%;
+border:1px solid green;
+}
+th
+{
+background-color:blue;
+color:white;
+}
+#newCat
+{
+	float:left;
+	border: 1px none black;
+	margin-left:5px;
+	padding-left:5px;
+}
+#addBuyPts
+{
+	clear:both;
+	float:left;
+	margin-top:10px;
+	padding-top:10px;
+	border-right: 2px solid black;
+	width:30%;
+}
+#categ
+{
+}
